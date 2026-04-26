@@ -1,0 +1,17 @@
+name: "octomap_mapping"
+version: "0.1.0"
+description: "OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees."
+maintainers:
+  - name: "fins"
+    email: "fins@sjtu.edu.cn"
+depends:
+  geometry_msgs: "system"
+  nav_msgs: "system"
+  sensor_msgs: "system"
+  visualization_msgs: "system"
+
+  PCL: "system"
+  octomap: "1.10.0"
+
+licenses:
+  - "MIT"
