@@ -7,8 +7,6 @@
 #pragma once
 
 #include <fins/node.hpp>
-#include <fins/agent/parameter_server.hpp>
-#include <fins/utils/time.hpp>
 
 // OctoMap
 #include <octomap/octomap.h>
